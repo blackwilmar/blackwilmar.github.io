@@ -10,3 +10,7 @@ github_username:  blackwilmar
 
 # Build settings
 markdown: kramdown
+pygments: true
+
+github:
+    username: blackwilmar
